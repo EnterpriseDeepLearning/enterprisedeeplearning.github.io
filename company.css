@@ -1,0 +1,34 @@
+body {
+  padding-top: 80px; // (same as header height)
+}
+header {
+  background: #47a3da;
+  height: 80px;
+  position: fixed;
+  left: -10px; /* this must be TWICE the required offset distance*/
+    padding-right: 10px; /* must be the same amount as above */
+  top: 0;
+  text-align:center;
+  transition: top 0.2s ease-in-out;
+  width: 100%;
+}
+blockquote
+{
+  margin-left:70px;
+  padding: 8px;
+  width: 100 px;
+  max-height: 200px;
+  border:2px solid black;
+  border-radius:4px;  
+  z-index:10;
+}
+.twitterborder {
+    background: white;
+    height: 100px;
+    margin: auto;
+    width: 280px;
+    text-align:center;
+    padding:-20px;
+    color:#ffffff;
+}
+

@@ -1,3 +1,1 @@
-[enterprisedeeplearning.com](http://enterprisedeeplearning.com)
-
-
+[www.enterprisedeeplearning.com](http://enterprisedeeplearning.com)
