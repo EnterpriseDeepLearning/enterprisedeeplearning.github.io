@@ -492,13 +492,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/iphone6.png": {
+	"\/img\/iphone-device.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 95273,
-		"inputAbbreviatedPath": "\/img\/iphone6.png",
-		"outputAbbreviatedPath": "\/img\/iphone6.png",
+		"inputAbbreviatedPath": "\/img\/iphone-device.png",
+		"outputAbbreviatedPath": "\/img\/iphone-device.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
