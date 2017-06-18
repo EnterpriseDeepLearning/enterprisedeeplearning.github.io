@@ -2,7 +2,7 @@ body {
   padding-top:80px; // (same as header height)
 }
 header {
-  background: #262B37;
+  background: #132229;
   height: 80px;
   position: fixed;
   left: -10px; /* this must be TWICE the required offset distance*/
