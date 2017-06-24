@@ -559,9 +559,9 @@ Features-stack
     position: absolute;
     bottom: -285px;
     left: 50%;
-    -webkit-transform: translateX(-50%);
-        -ms-transform: translateX(-50%);
-            transform: translateX(-50%); }
+    -webkit-transform: translateX(-0%);
+        -ms-transform: translateX(-0%);
+            transform: translateX(-0%); }
 
 /* ==========================================================================
 .blog-intro
