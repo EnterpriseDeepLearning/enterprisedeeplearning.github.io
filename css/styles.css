@@ -245,25 +245,25 @@ Animations
 
 @-webkit-keyframes floating-logo {
   from {
-    -webkit-transform: translate(-25%, 0);
-            transform: translate(-25%, 0); }
+    -webkit-transform: translate(25%, 0);
+            transform: translate(25%, 0); }
   50% {
-    -webkit-transform: translate(-25%, 10px);
-            transform: translate(-25%, 10px); }
+    -webkit-transform: translate(25%, 10px);
+            transform: translate(25%, 10px); }
   to {
-    -webkit-transform: translate(-25%, 0);
-            transform: translate(-25%, 0); } }
+    -webkit-transform: translate(25%, 0);
+            transform: translate(25%, 0); } }
 
 @keyframes floating-logo {
   from {
-    -webkit-transform: translate(-25%, 0);
-            transform: translate(-25%, 0); }
+    -webkit-transform: translate(25%, 0);
+            transform: translate(25%, 0); }
   50% {
-    -webkit-transform: translate(-25%, 10px);
-            transform: translate(-25%, 10px); }
+    -webkit-transform: translate(25%, 10px);
+            transform: translate(25%, 10px); }
   to {
-    -webkit-transform: translate(-25%, 0);
-            transform: translate(-25%, 0); } }
+    -webkit-transform: translate(25%, 0);
+            transform: translate(25%, 0); } }
 /* ==========================================================================
 Waypoinsts
 ========================================================================== */
