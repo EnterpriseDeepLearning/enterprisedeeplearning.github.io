@@ -248,8 +248,8 @@ Animations
     -webkit-transform: translate(-50%, 0);
             transform: translate(-50%, 0); }
   50% {
-    -webkit-transform: translate(-50%, 3px);
-            transform: translate(-50%, 3px); }
+    -webkit-transform: translate(-50%, 4.5px);
+            transform: translate(-50%, 4.5px); }
   to {
     -webkit-transform: translate(-50%, 0);
             transform: translate(-50%, 0); } }
@@ -259,8 +259,8 @@ Animations
     -webkit-transform: translate(-50%, 0);
             transform: translate(-50%, 0); }
   50% {
-    -webkit-transform: translate(-50%, 3px);
-            transform: translate(-50%, 3px); }
+    -webkit-transform: translate(-50%, 4.5px);
+            transform: translate(-50%, 4.5px); }
   to {
     -webkit-transform: translate(-50%, 0);
             transform: translate(-50%, 0); } }
